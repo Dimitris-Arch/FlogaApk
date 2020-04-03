@@ -1,0 +1,928 @@
+﻿Build1=Default,firefighter.companion
+File1=1.4.png
+File10=2.bal
+File100=frame1.png
+File101=frame2.png
+File102=frame3.png
+File103=frame4.png
+File104=frame5.png
+File105=frame6.png
+File106=frame7.png
+File107=genikaico.png
+File108=GHSPNG.png
+File109=google.png
+File11=3.png
+File110=gpsicon.png
+File111=GPSPNG.png
+File112=gpss.bal
+File113=gpssApp.bal
+File114=igropimeno.bal
+File115=ilika.bal
+File116=ilikaa.bal
+File117=image129.png
+File118=image163.png
+File119=images.png
+File12=4.1.png
+File120=info-design.png
+File121=karpa.bal
+File122=karpaa.png
+File123=katagma.bal
+File124=katagma.jpg
+File125=katagma.png
+File126=katigor.bal
+File127=katigories.bal
+File128=katigoriespng.png
+File129=katigorrrr.bal
+File13=4.2.png
+File130=large.png
+File131=lat.txt
+File132=line.png
+File133=lipothimia.bal
+File134=lipothimia.png
+File135=lon.txt
+File136=main.bal
+File137=meigmaaeriwn.bal
+File138=menu.png
+File139=methanio.bal
+File14=4.3.png
+File140=mny.jpg
+File141=mnywgs.png
+File142=mple.png
+File143=mplepano.png
+File144=nea.png
+File145=needle.png
+File146=no.jpg
+File147=off.jpg
+File148=oktobal.bal
+File149=on.jpg
+File15=5.1.png
+File150=ousiesbal.bal
+File151=oxygono.bal
+File152=oxygonopiesi.bal
+File153=pente2.bal
+File154=pentebal.bal
+File155=petrelaio.bal
+File156=pin1.bal
+File157=pixida.bal
+File158=pixidaicon.png
+File159=pnigmos.bal
+File16=5.2.png
+File160=pnigmos.jpg
+File161=pnigmos.png
+File162=propanio.bal
+File163=reload.png
+File164=rss.bal
+File165=rss.html
+File166=rss.png
+File167=rssdyo.bal
+File168=saa.bal
+File169=sadr.bal
+File17=6.1.png
+File170=simanseis.bal
+File171=SWAP.png
+File172=tadr.bal
+File173=teserabal.bal
+File174=tessera2.bal
+File175=tessera3.bal
+File176=test.bal
+File177=text.jpg
+File178=thermoplixia.bal
+File179=thermoplixia.gif
+File18=6.2.png
+File180=thiiko.bal
+File181=thiikoatmos.bal
+File182=thl.png
+File183=thlefona.bal
+File184=thlicon.png
+File185=thliconMain.png
+File186=thlpng.png
+File187=thraki.bal
+File188=titlos.png
+File189=tria.bal
+File19=670px-Splint-a-Fractured-Hand-Step-3.jpg
+File190=twit.html
+File191=twitt.png
+File192=uns.txt
+File193=venzini.bal
+File194=xartes.jpg
+File195=xartmenu.png
+File196=xlorio.bal
+File197=ydrogono.bal
+File198=ydroxidio.bal
+File199=ydroxidiodialima.bal
+File2=1.5.png
+File20=7A.png
+File200=ydroxlorikooxi.bal
+File201=ydroxlorio.bal
+File202=ygraerio.bal
+File203=ygrooxygono.bal
+File204=YLIKAPNG.png
+File205=ypothermia.bal
+File206=ypothermia.gif
+File21=7B.png
+File22=7C.png
+File23=7D.png
+File24=8.png
+File25=9.png
+File26=adr.bal
+File27=ADRPNG.png
+File28=adrSearch.bal
+File29=aeriapetrelaiou.bal
+File3=1.6.png
+File30=aimoragia.bal
+File31=aimoragia.png
+File32=alla.png
+File33=amonia.bal
+File34=asetilini.bal
+File35=avrio.bal
+File36=back.jpg
+File37=back1.png
+File38=back2.png
+File39=back3.png
+File4=1.bal
+File40=back4.png
+File41=back5.png
+File42=back6.png
+File43=back7.png
+File44=backa.jpg
+File45=bt.jpg
+File46=bt.png
+File47=bti.png
+File48=btok.png
+File49=buttondelete.png
+File5=1.png
+File50=calcgps.png
+File51=calen.png
+File52=camera.bal
+File53=camera.png
+File54=compass.png
+File55=COMPASSPNG.png
+File56=DANGERPNG.png
+File57=deikt.bal
+File58=delete.png
+File59=dyo2bal.bal
+File6=1234.png
+File60=dyo3bal.bal
+File61=dyobal.bal
+File62=eexit.png
+File63=efragma.bal
+File64=egavma.bal
+File65=egg.gif
+File66=egg.png
+File67=egkavma.gif
+File68=egkefaliko.bal
+File69=egsabt.png
+File7=2.1.png
+File70=ena4.bal
+File71=ena5.bal
+File72=enabal.bal
+File73=enniabal.bal
+File74=epta2.bal
+File75=epta3.bal
+File76=epta4.bal
+File77=eptabal.bal
+File78=exi2.bal
+File79=exibal.bal
+File8=2.2.png
+File80=f1.png
+File81=f2.png
+File82=f3.png
+File83=f4.png
+File84=f5.png
+File85=f6.png
+File86=f7.png
+File87=facebook.jpg
+File88=facebook.png
+File89=fakos.jpg
+File9=2.3.png
+File90=fakosico.png
+File91=fakossicon.png
+File92=fbrefos.png
+File93=ff1.png
+File94=fire.png
+File95=first.bal
+File96=firstico.jpg
+File97=fisiko.bal
+File98=fpaidi.png
+File99=frame0.png
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup110=Default Group
+FileGroup111=Default Group
+FileGroup112=Default Group
+FileGroup113=Default Group
+FileGroup114=Default Group
+FileGroup115=Default Group
+FileGroup116=Default Group
+FileGroup117=Default Group
+FileGroup118=Default Group
+FileGroup119=Default Group
+FileGroup12=Default Group
+FileGroup120=Default Group
+FileGroup121=Default Group
+FileGroup122=Default Group
+FileGroup123=Default Group
+FileGroup124=Default Group
+FileGroup125=Default Group
+FileGroup126=Default Group
+FileGroup127=Default Group
+FileGroup128=Default Group
+FileGroup129=Default Group
+FileGroup13=Default Group
+FileGroup130=Default Group
+FileGroup131=Default Group
+FileGroup132=Default Group
+FileGroup133=Default Group
+FileGroup134=Default Group
+FileGroup135=Default Group
+FileGroup136=Default Group
+FileGroup137=Default Group
+FileGroup138=Default Group
+FileGroup139=Default Group
+FileGroup14=Default Group
+FileGroup140=Default Group
+FileGroup141=Default Group
+FileGroup142=Default Group
+FileGroup143=Default Group
+FileGroup144=Default Group
+FileGroup145=Default Group
+FileGroup146=Default Group
+FileGroup147=Default Group
+FileGroup148=Default Group
+FileGroup149=Default Group
+FileGroup15=Default Group
+FileGroup150=Default Group
+FileGroup151=Default Group
+FileGroup152=Default Group
+FileGroup153=Default Group
+FileGroup154=Default Group
+FileGroup155=Default Group
+FileGroup156=Default Group
+FileGroup157=Default Group
+FileGroup158=Default Group
+FileGroup159=Default Group
+FileGroup16=Default Group
+FileGroup160=Default Group
+FileGroup161=Default Group
+FileGroup162=Default Group
+FileGroup163=Default Group
+FileGroup164=Default Group
+FileGroup165=Default Group
+FileGroup166=Default Group
+FileGroup167=Default Group
+FileGroup168=Default Group
+FileGroup169=Default Group
+FileGroup17=Default Group
+FileGroup170=Default Group
+FileGroup171=Default Group
+FileGroup172=Default Group
+FileGroup173=Default Group
+FileGroup174=Default Group
+FileGroup175=Default Group
+FileGroup176=Default Group
+FileGroup177=Default Group
+FileGroup178=Default Group
+FileGroup179=Default Group
+FileGroup18=Default Group
+FileGroup180=Default Group
+FileGroup181=Default Group
+FileGroup182=Default Group
+FileGroup183=Default Group
+FileGroup184=Default Group
+FileGroup185=Default Group
+FileGroup186=Default Group
+FileGroup187=Default Group
+FileGroup188=Default Group
+FileGroup189=Default Group
+FileGroup19=Default Group
+FileGroup190=Default Group
+FileGroup191=Default Group
+FileGroup192=Default Group
+FileGroup193=Default Group
+FileGroup194=Default Group
+FileGroup195=Default Group
+FileGroup196=Default Group
+FileGroup197=Default Group
+FileGroup198=Default Group
+FileGroup199=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup200=Default Group
+FileGroup201=Default Group
+FileGroup202=Default Group
+FileGroup203=Default Group
+FileGroup204=Default Group
+FileGroup205=Default Group
+FileGroup206=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup48=Default Group
+FileGroup49=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup51=Default Group
+FileGroup52=Default Group
+FileGroup53=Default Group
+FileGroup54=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=Default Group
+FileGroup62=Default Group
+FileGroup63=Default Group
+FileGroup64=Default Group
+FileGroup65=Default Group
+FileGroup66=Default Group
+FileGroup67=Default Group
+FileGroup68=Default Group
+FileGroup69=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup71=Default Group
+FileGroup72=Default Group
+FileGroup73=Default Group
+FileGroup74=Default Group
+FileGroup75=Default Group
+FileGroup76=Default Group
+FileGroup77=Default Group
+FileGroup78=Default Group
+FileGroup79=Default Group
+FileGroup8=Default Group
+FileGroup80=Default Group
+FileGroup81=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group
+FileGroup96=Default Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Default Group
+IconFile=
+Library1=core
+Library10=animation
+Library11=animationplus (2)
+Library12=messharelibrary
+Library13=scrollview2d
+Library14=egsa87
+Library15=id
+Library16=runtimepermissions
+Library17=javaobject
+Library18=fiddlearound
+Library19=advancedcamera
+Library2=dialogs
+Library20=appcompat
+Library21=mydynamiccalendar
+Library22=okhttputils2
+Library23=webviewextras
+Library3=gps
+Library4=ime
+Library5=network
+Library6=phone
+Library7=reflection (3)
+Library8=stringutils
+Library9=webviewxtended
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: http://www.basic4ppc.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="4" android:targetSdkVersion="28"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~'End of default text.~\n~SetApplicationAttribute(android:usesCleartextTraffic,"true")~\n~~\n~~\n~~\n~AddManifestText(<uses-feature android:name="android.hardware.location.gps"/>)~\n~AddManifestText(<uses-feature android:name="android.hardware.telephony" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera.flash" android:required="false" />)
+Module1=rss
+Module10=firstaid
+Module100=tessera2
+Module101=tessera3
+Module102=thermoplixia
+Module103=thiiko
+Module104=thiikoatmizon
+Module105=tria
+Module106=triaxil100
+Module107=triaxil200
+Module108=triaxil300
+Module109=triaxil400
+Module11=ilika
+Module110=triaxil500
+Module111=triaxil600
+Module112=xilia800
+Module113=xilia900
+Module114=xlorio
+Module115=ydrogono
+Module116=ygrooxygono
+Module117=ygropimeno
+Module118=ypothermia
+Module119=restartGpsApp
+Module12=epta
+Module13=epta2
+Module14=epta3
+Module15=kriti
+Module16=attiki
+Module17=pelloponiso
+Module18=thessalia
+Module19=sterea
+Module2=rssDyo
+Module20=anthraki
+Module21=ena
+Module22=dyo
+Module23=tesera
+Module24=pente
+Module25=exi
+Module26=okto
+Module27=ennia
+Module28=camera
+Module29=pixida
+Module3=deiktes
+Module30=miden100
+Module31=dyoxil400
+Module32=thlefona
+Module33=dytellada
+Module34=hpeiros
+Module35=adr
+Module36=katigoriess
+Module37=CustomListView
+Module38=dyoxil200
+Module39=dyoxil300
+Module4=avrio
+Module40=egkefaliko
+Module41=venzini
+Module42=ydroxidio
+Module43=ydroxlorio
+Module44=xilia500
+Module45=xilia1000
+Module46=xilia100
+Module47=xilia200
+Module48=xilia300
+Module49=xilia400
+Module5=SearchView
+Module50=xilia600
+Module51=xilia700
+Module52=ydroxidiodialima
+Module53=ydroxlorikooxi
+Module54=ygraerio
+Module55=voreioaig
+Module56=aeriapetrelaiou
+Module57=aimoragia
+Module58=amonia
+Module59=asetilini
+Module6=gpssignal
+Module60=dyo2
+Module61=dyo3
+Module62=dyoxil100
+Module63=dyoxil1000
+Module64=dyoxil500
+Module65=dyoxil600
+Module66=dyoxil700
+Module67=dyoxil800
+Module68=dyoxil900
+Module69=dytmak
+Module7=gpsApp
+Module70=efragma
+Module71=egavma
+Module72=ena6
+Module73=enapente
+Module74=enatessera
+Module75=epta4
+Module76=exi2
+Module77=fisiko
+Module78=ioniopel
+Module79=karpa
+Module8=searchUn
+Module80=katagma
+Module81=kentrikimak
+Module82=listaousies
+Module83=lypothimia
+Module84=meigmaaeriwn
+Module85=methanio
+Module86=miden200
+Module87=miden300
+Module88=miden400
+Module89=miden500
+Module9=searchunDELL
+Module90=miden600
+Module91=notioaig
+Module92=ousies
+Module93=oxigonopiesi
+Module94=oxygono
+Module95=pente2
+Module96=petrelaio
+Module97=pnigmos
+Module98=propanio
+Module99=simanseis
+NumberOfFiles=206
+NumberOfLibraries=23
+NumberOfModules=119
+Version=9.3
+@EndOfDesignText@
+ #Region  Project Attributes 
+	#ApplicationLabel: Φλόγα
+	#VersionCode: 45
+	#VersionName: Πυροσβεστική
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: true
+	'#AdditionalRes: C:\android-sdk-windows\extras\google\google_play_services\libproject\google-play-services_lib\res, com.google.android.gms
+	'#ExcludeClasses: com.google.ads, anywheresoftware.b4a.phone.RingtoneManager
+	
+#End Region
+#AdditionalRes: ..\LibRes
+#Region  Activity Attributes 
+	#FullScreen: true
+	#IncludeTitle: false
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+	Public rp As RuntimePermissions
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+	'Dim AdView1 As AdView
+	'Dim cam As AdvancedCamera
+Dim vardia As Label
+
+	' Private BannerAd As AdView
+  ' Private IAd As InterstitialAd
+	
+	Private mple As ImageView
+	Private simanseislabel As Label
+	Private listabel As Label
+	Private katigorlabel As Label
+	Private ousialabel As Label
+	Private ililabel As Label
+	Private callabel As Label
+	
+	Private searchlabel As Label
+	Private infolabel As Label
+	Private cameraaofflabel As Label
+	Private gpsslabel As Label
+	Private pixilabel As Label
+	
+	Private thllabel As Label
+	Private fakoss As Label
+	Private firstaids As Label
+	Private genika As Label
+	
+	Private update As Label
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+	'cam.Initialize(Activity, "cam")
+	Activity.LoadLayout("main")
+	Activity.AddMenuItem("ΠΛΗΡΟΦΟΡΙΕΣ","mnuinfo")
+	Activity.AddMenuItem("Ομάδα φλόγα στο facebook","mnfb")
+	Activity.AddMenuItem("ΈΞΟΔΟΣ","mnuexit")
+
+
+ 'AdView1.Initialize("Ad", "ca-app-pub-6889311870331566/2287503739")
+	 'Activity.AddView(AdView1, 0dip, 100%y - 50dip, 100%x, 50dip)
+   'AdView1.LoadAd
+   '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ '   BannerAd.Initialize2("Ad", "ca-app-pub-6889311870331566/1977634935", BannerAd.SIZE_SMART_BANNER)
+								
+  ' Dim height As Int
+  ' If GetDeviceLayoutValues.ApproximateScreenSize < 6 Then
+    'phones
+  '  If 100%x > 100%y Then height = 32dip Else height = 50dip
+  ' Else
+    'tablets
+  '  height = 90dip
+  ' End If
+      
+ '  Activity.AddView(BannerAd, 0dip, 100%y - height, 100%x, height)
+ '  BannerAd.LoadAd
+ '  IAd.Initialize("Ad", "ca-app-pub-6889311870331566/1977634935")
+  '  IAd.LoadAd
+   
+   '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+   
+'PRWTO PANW aristera
+
+
+searchlabel.Top = 3%y
+searchlabel.left = 3.5%x
+searchlabel.height = 27.5%y
+searchlabel.Width  = 45%x
+
+''PANW DEXIA MESH
+
+
+listabel.Top = 3%y
+listabel.left = 51.75%x
+listabel.height = 13%y
+listabel.Width  = 21.25%x
+
+
+
+
+
+katigorlabel.Top = 17.5%y
+katigorlabel.left = 51.75%x
+katigorlabel.height = 13%y
+katigorlabel.Width  = 21.25%x
+'PANW DEXIA AKRH
+
+ousialabel.Top = 3%y
+ousialabel.left = 76%x
+ousialabel.height = 13%y
+ousialabel.Width  = 21.25%x
+
+ililabel.Top = 17.5%y
+ililabel.left = 76%x
+ililabel.height = 13%y
+ililabel.Width  = 21.25%x
+'1 seira
+
+cameraaofflabel.Top = 33%y
+cameraaofflabel.left = 3%x
+cameraaofflabel.height = 27.5%y
+cameraaofflabel.Width  = 45%x
+
+
+
+thllabel.Top = 33%y
+thllabel.left = 51.75%x
+thllabel.height = 13%y
+thllabel.Width  = 21.25%x
+
+fakoss.Top = 33%y
+fakoss.left = 76%x
+fakoss.height = 13%y
+fakoss.Width  = 21.25%x
+
+firstaids.Top = 47.5%y
+firstaids.left = 51.75%x
+firstaids.height = 13%y
+firstaids.Width  = 21.25%x
+
+genika.Top = 47.5%y
+genika.left = 76%x
+genika.height = 13%y
+genika.Width  = 21.25%x
+''2seira
+
+gpsslabel.Top = 63%y
+gpsslabel.left = 3%x
+gpsslabel.height = 27.5%y
+gpsslabel.Width  = 45%x
+
+
+
+	callabel.Top = 63%y
+	callabel.left = 51.75%x
+	callabel.height = 13%y
+	callabel.Width  = 21.5%x
+
+	pixilabel.Top = 63%y
+	pixilabel.left = 76%x
+	pixilabel.height = 13%y
+	pixilabel.Width  = 21.5%x
+	
+	simanseislabel.Top = 77.5%y
+	simanseislabel.left = 51.75%x
+	simanseislabel.height = 13%y
+	simanseislabel.Width  = 21.5%x
+	
+	infolabel.Top = 77.5%y
+	infolabel.left = 76%x
+	infolabel.height = 13%y
+	infolabel.Width  = 21.5%x
+
+
+
+mple.top = 93%y
+mple.left = 3%x
+mple.width = 94%x
+mple.height = 7%y
+
+
+ simanseislabel.BringToFront
+	 listabel.BringToFront
+	 katigorlabel.BringToFront
+	 ousialabel.BringToFront
+	 ililabel.BringToFront
+	 
+	 cameraaofflabel.BringToFront
+	 gpsslabel.BringToFront
+	 thllabel.BringToFront
+	 pixilabel.BringToFront
+
+
+
+
+
+'''''''''''''''Update msgs'''''
+	If File.Exists(File.DirInternal, "msg.txt") = False Then
+    
+	Dim result As Int
+		result = Msgbox2("Εχω δημιουργήσει ομάδα στο facebook για την εφαρμογή 'ΦΛΟΓΑ' για να προσπαθήσω να την βελτιώσω,να λαβω σχόλια, παρατηρήσεις για τυχόν σφαλματα και γνώμες για βελτίωση της εφαρμογής.Θα χαρώ να γίνετε μέλη.Ευχαριστω.", "  ", "Ναι", "Αργότερα", "Οχι", LoadBitmap (File.DirAssets, "facebook.png"))
+			If result = DialogResponse.Positive Then
+				Dim p As PhoneIntents
+				StartActivity(p.OpenBrowser("https://www.facebook.com/groups/256720274824210/"))
+			End If
+		If File.Exists(File.DirInternal, "msg.txt") = False Then
+			File.WriteString(File.DirInternal, "msg.txt", update.Text)
+				End If
+			If result = DialogResponse.negative Then
+
+			If File.Exists(File.DirInternal, "msg.txt") = False Then
+				File.WriteString(File.DirInternal, "msg.txt", update.Text)
+				End If
+			End If
+	
+	
+	End If
+
+End Sub
+
+Sub Activity_Resume
+	
+
+	
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+'Sub cam_Ready (Success As Boolean)
+'Dim FlashMode As String 
+'FlashMode = cam.CurrentFlashMode
+
+
+'End Sub
+
+''''''''''''''''''''
+
+'Sub Activity_Click
+ '  If IAd.Ready Then IAd.Show
+'End Sub
+
+'Sub IAD_AdClosed
+'   IAd.LoadAd 'prepare a new ad
+'End Sub
+
+''''''''''''''''''''''''
+
+Sub simanseislabel_Click
+	StartActivity("thlefona")
+End Sub
+Sub listabel_Click
+	StartActivity("listaousies")
+End Sub
+Sub katigorlabel_Click
+	StartActivity("katigoriess")
+End Sub
+Sub ousialabel_Click
+	StartActivity("ousies")
+End Sub
+Sub ililabel_Click
+	StartActivity("ilika")
+End Sub
+
+
+Sub gpsslabel_Click
+	StartActivity("deiktes")
+	
+End Sub
+Sub thllabel_Click
+	StartActivity("pixida")
+End Sub
+Sub pixilabel_Click
+	StartActivity("rss")
+End Sub
+
+
+Sub mnuinfo_Click
+	Msgbox("Η εφαρμογή είναι το αλφαβητάρι της μεταφοράς επικύνδινων υλικών και ουσιών.Περιέχει όλες τις ουσίες (UN NUMBERS) ονομαστικά και τις κατηγορίες (ΚΑΤΗΓΟΡΙΕΣ ADR) που ανήκει η κάθε μια.Αναλύει τις κατηγορίες ,τις επικυνδινότητες της κάθε μιας και τον τρόπο αντιμετώπισης.Περιέχει τις σημάνσεις(Κατηγορίες HIN)που συνοδεύουν τις πινακίδες των ουσιών(το πάνω μέρος δίχνει την κατηγορία HIN και το κάτω την ουσία UN) και αναλύει τις 20 πιο διαδεδομένες.", "Πληροφορίες Εφαρμογής")
+	Msgbox("Περιέχει όλα τα τηλέφωνα των σταθμών και κλιμακίων του πυροσβεστικού σώματος με δυνατότητα απευθείας κλήσης", "Πληροφορίες Εφαρμογής")
+	Msgbox("Εμφανίζει τους χάρτες επικινδυνότητας(Απαιτείται σύνδεση στο ίντερνετ)", "Πληροφορίες Εφαρμογής")
+	Msgbox("Παρέχει την δυνατότητα χρήσης της κάμερας της συσκευής σαν φακό.", "Πληροφορίες Εφαρμογής")
+	Msgbox("Εχει οδηγίες πρώτων βοηθειών.Περιέχει τις βασικότερες καταστάσεις που ενδέχεται να χρειαστεί η παροχή αυτή.", "Πληροφορίες Εφαρμογής")
+	Msgbox("Μετατρέπει την συσκεύη σε δέκτη GPS αποθηκέυοντας το στίγμα και δίνει την δυνατότητα εμφάνισης του σημείου στον χάρτη με την χρήση των χαρτών της google..", "Πληροφορίες Εφαρμογής")
+	Msgbox("Χρησιμοποιει την συσκευή σαν πιξίδα.Η ακρίβεια εξαρτάται απο την συσκευή..", "Πληροφορίες Εφαρμογής")
+	
+End Sub
+Sub mnuexit_Click
+	
+'	If IAd.Ready Then IAd.Show
+	
+	If Msgbox2("ΕΞΟΔΟΣ;", "", "ΝΑΙ", "", "ΟΧΙ", Null) =DialogResponse.POSITIVE Then
+		
+		ExitApplication
+			  
+	Else
+	'	If IAd.Ready Then IAd.Show
+	End If
+			  
+	
+End Sub
+
+Sub mnfb_Click
+	Dim p As PhoneIntents
+	StartActivity(p.OpenBrowser("https://www.facebook.com/groups/256720274824210/"))
+	
+	
+End Sub
+
+
+Sub fakoss_Click
+	StartActivity("camera")
+End Sub
+
+Sub firstaids_Click
+	StartActivity("firstaid")
+End Sub
+
+Sub genika_Click
+	StartActivity("gpssignal")
+	
+End Sub
+
+
+
+
+Sub cameraaofflabel_Click
+	StartActivity("simanseis")
+
+End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean
+	'If IAd.Ready Then IAd.Show
+    If KeyCode = KeyCodes.KEYCODE_BACK Then
+        If Msgbox2("ΕΞΟΔΟΣ;", "", "ΝΑΙ", "", "ΟΧΙ", Null) =DialogResponse.POSITIVE Then
+		
+              ExitApplication
+			  
+        Else
+	'		If IAd.Ready Then IAd.Show
+        End If
+    End If
+End Sub
+ 
+
+
+
+Sub callabel_Click
+	StartActivity(gpsApp)
+	
+End Sub
+
+Sub searchlabel_Click
+	StartActivity(searchUn)
+End Sub
+
+Sub infolabel_Click
+	Activity.OpenMenu
+End Sub
